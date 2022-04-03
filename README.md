@@ -1,6 +1,5 @@
 # cybersecurity-attack
 all info about cybersecurity attack
 
-test
-
-file
+ types of CyberSecurity Attacks:
+ 
